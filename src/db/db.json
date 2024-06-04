@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Ms. Frances Gibson-Grant",
+    "phone": "448.596.8851 x923",
+    "email": "Cesar41@gmail.com",
+    "job": "Regional Data Administrator"
+  },
+  {
+    "name": "Sylvia Tromp-Kuphal",
+    "phone": "1-511-996-3731 x4700",
+    "email": "Milford.Daniel94@hotmail.com",
+    "job": "Senior Creative Manager"
+  },
+  {
+    "name": "Sylvester Wolf Sr.",
+    "phone": "550.805.6730",
+    "email": "Maeve_Sawayn16@yahoo.com",
+    "job": "Dynamic Identity Orchestrator"
+  },
+  {
+    "name": "Edgar Gusikowski",
+    "phone": "1-751-493-0781 x86445",
+    "email": "Paolo74@gmail.com",
+    "job": "Chief Operations Analyst"
+  },
+  {
+    "name": "Marcia Funk",
+    "phone": "349.853.6213 x717",
+    "email": "Gisselle_Boyer@yahoo.com",
+    "job": "Principal Functionality Orchestrator"
+  },
+  {
+    "name": "Isaac Hirthe I",
+    "phone": "201-253-6650",
+    "email": "Demond_Kiehn42@hotmail.com",
+    "job": "Future Implementation Liaison"
+  }
+]
